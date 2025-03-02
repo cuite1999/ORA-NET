@@ -1,1 +1,1 @@
-# RORA-NET: Enhancing Rotated Image Feature Matching through Overlapping Region Alignment
+# ORA-NET: Enhancing Rotated Image Feature Matching through oriented Overlapping Region Alignment
